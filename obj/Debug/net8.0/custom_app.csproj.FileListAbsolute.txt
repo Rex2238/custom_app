@@ -1,0 +1,15 @@
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\custom_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\custom_app.AssemblyInfoInputs.cache
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\custom_app.AssemblyInfo.cs
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\custom_app.csproj.CoreCompileInputs.cache
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\custom_app.sourcelink.json
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\bin\Debug\net8.0\custom_app.exe
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\bin\Debug\net8.0\custom_app.deps.json
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\bin\Debug\net8.0\custom_app.runtimeconfig.json
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\bin\Debug\net8.0\custom_app.dll
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\bin\Debug\net8.0\custom_app.pdb
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\custom_app.dll
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\refint\custom_app.dll
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\custom_app.pdb
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\custom_app.genruntimeconfig.cache
+C:\Users\Rex Thaumiel\Documents\GitHub\custom_app\obj\Debug\net8.0\ref\custom_app.dll
